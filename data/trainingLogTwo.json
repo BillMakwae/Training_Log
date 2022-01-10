@@ -1,0 +1,53 @@
+{
+    "Activities": [
+        {
+            "date": "1/1/2001",
+            "description": "Good times!",
+            "title": "Lifted Heavy Today",
+            "type": "StrengthActivity"
+        },
+        {
+            "date": "1/2/2001",
+            "distance": 5,
+            "description": "Ran fast",
+            "time": "40 mins",
+            "title": "Morning Run",
+            "type": "RunningActivity",
+            "runningShoe": 0
+        },
+        {
+            "date": "1/4/2003",
+            "distance": 12.5,
+            "description": "GREAT",
+            "time": "14 mins",
+            "title": "Running Again",
+            "type": "RunningActivity",
+            "runningShoe": 1
+        },
+        {
+            "date": "1/5/2005",
+            "distance": 42.2,
+            "description": "Ran fast",
+            "time": "2 hours",
+            "title": "Marathon",
+            "type": "RunningActivity",
+            "runningShoe": 1
+        },
+        {
+            "date": "3/4/2004",
+            "description": "Lift Heavy!",
+            "title": "Strength Training",
+            "type": "StrengthActivity"
+        }
+    ],
+    "Equipment": [
+        {
+            "name": "Default Training Shoe",
+            "mileage": 5
+        },
+        {
+            "name": "Pegasus 15",
+            "mileage": 64.7
+        }
+    ]
+}

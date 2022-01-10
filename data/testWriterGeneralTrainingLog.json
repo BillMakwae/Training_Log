@@ -1,0 +1,38 @@
+{
+    "Activities": [
+        {
+            "date": "00/00/0000",
+            "distance": 10,
+            "description": "Having Fun.",
+            "time": "1 hour",
+            "title": "Testing Running Activity",
+            "type": "RunningActivity",
+            "runningShoe": 1
+        },
+        {
+            "date": "01/01/1001",
+            "description": "That was tough!",
+            "title": "Test Strength Activity",
+            "type": "StrengthActivity"
+        },
+        {
+            "date": "02/02/2002",
+            "distance": 11,
+            "description": "Having Fun Again!",
+            "time": "2 hours",
+            "title": "Testing Second Running Activity",
+            "type": "RunningActivity",
+            "runningShoe": 1
+        }
+    ],
+    "Equipment": [
+        {
+            "name": "Different Test Shoe",
+            "mileage": 20
+        },
+        {
+            "name": "Test Shoe",
+            "mileage": 10
+        }
+    ]
+}
